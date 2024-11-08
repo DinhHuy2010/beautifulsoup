@@ -1,4 +1,8 @@
 This is the **unofficial** mirror of the famous "Beautiful Soup" library.
+
+Mirror from https://git.launchpad.net/~leonardr/beautifulsoup
+
+
 #
 
 Beautiful Soup is a library that makes it easy to scrape information
@@ -90,5 +94,5 @@ $ pytest
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTQyNDExOF19
+eyJoaXN0b3J5IjpbMTkwOTI2NTQ0OF19
 -->
