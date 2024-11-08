@@ -1,7 +1,6 @@
 This is the **unofficial** mirror of the famous "Beautiful Soup" library.
 
-Mirror from https://git.launchpad.net/~leonardr/beautifulsoup
-
+Mirror from https://git.launchpad.net/~leonardr/beautifulsoup with complete git history, branches, tags.
 
 #
 
@@ -94,5 +93,5 @@ $ pytest
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTI2NTQ0OF19
+eyJoaXN0b3J5IjpbLTE2MzY5MjMyMzBdfQ==
 -->
