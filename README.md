@@ -1,3 +1,6 @@
+This is the **unofficial** mirror of the famous "Beautiful Soup" library.
+#
+
 Beautiful Soup is a library that makes it easy to scrape information
 from web pages. It sits atop an HTML or XML parser, providing Pythonic
 idioms for iterating, searching, and modifying the parse tree.
@@ -87,5 +90,5 @@ $ pytest
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDc2NTkzMjldfQ==
+eyJoaXN0b3J5IjpbMTAwNTQyNDExOF19
 -->
