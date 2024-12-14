@@ -1,3 +1,7 @@
+ with complete git history, branches, tags.
+
+#
+
 Beautiful Soup is a library that makes it easy to scrape information
 from web pages. It sits atop an HTML or XML parser, providing Pythonic
 idioms for iterating, searching, and modifying the parse tree.
@@ -86,3 +90,6 @@ Beautiful Soup supports unit test discovery using Pytest:
 $ pytest
 ```
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTEzNzM3MTA3Ml19
+-->
